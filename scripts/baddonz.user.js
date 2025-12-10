@@ -6,8 +6,8 @@
 // @match         https://*.margonem.pl/*
 // @grant         none
 // @icon          https://i.imgur.com/OAtRFEw.png
-// @downloadURL   https://besiak6.github.io/scripts/baddonz.user.js
-// @updateURL     https://besiak6.github.io/scripts/baddonz.user.js
+// @downloadURL   https://ystygyc7q2-bit.github.io/scripts/baddonz.user.js
+// @updateURL     https://ystygyc7q2-bit.github.io/scripts/baddonz.user.js
 // ==/UserScript==
 (function() {
     window.CSS_URL = "https://ystygyc7q2-bit.github.io/styles/baddonz.css";
